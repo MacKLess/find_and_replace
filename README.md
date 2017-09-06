@@ -19,10 +19,6 @@ _This application will allow the user to find and replace words in a string._
 * Example input: My name is MacK.
 * Example output: My name is Richa.
 
-<!-- * _Returns wins true if rock is the object and scissors is the argument_
-* Example input: rock.ties?(scissors)
-* Example output: false -->
-
 ## Known Bugs
 
 _There are no known bugs at this time._
